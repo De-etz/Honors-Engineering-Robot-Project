@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  65600	   3424	   5720	  74744	  123f8	../G2Basic.elf
